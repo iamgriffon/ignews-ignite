@@ -1,0 +1,9 @@
+module.exports = {
+  env: {
+    STRIPE_API_KEY: 'sk_test_51GyRCeH5HPRIeVKkgYxtIz4zhYIVjnpIgUZVGd6pR1QmLD0kGUC9a9oHz5CPLYz8PB990YJT4GCGy3J1tvBXSk3D00rZY24701',
+    FAUNADB_KEY: 'fnAERHSdunAAQOx_QNXH1WtVAUlKijm7pNFhyorq',
+    GITHUB_CLIENT_SECRET: '65e0023788be33f55b36a420dbf26c8a5cea6412',
+    GITHUB_CLIENT_ID: 'e00cb7c362dcc2128713',
+    NEXTAUTH_URL: 'https://localhost:3000/'
+  },
+};
